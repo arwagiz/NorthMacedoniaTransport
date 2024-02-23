@@ -39,10 +39,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Mitigation:
-  
+    - [National Energy and Climate Plan (Draft, 2021)](https://www.energy-community.org/implementation/package/NECP.html)  
       
 - Adaptation
-    - [National Energy and Climate Plan (Draft, 2021)](https://www.energy-community.org/implementation/package/NECP.html)   
+   
 
 - Energy policy 
     
